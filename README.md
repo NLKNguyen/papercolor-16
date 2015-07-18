@@ -16,7 +16,9 @@ Install using Atom's package manager
 * [This repo's directory](https://github.com/NLKNguyen/papercolor/tree/master/gnome-terminal)
 
 ### Base16 schemes
-* [This repo's directory](https://github.com/NLKNguyen/papercolor/tree/master/base16-builder-schemes) for generating other color schemes.
+* [This repo's directory](https://github.com/NLKNguyen/papercolor/tree/master/base16-builder-schemes) 
+
+Used for generating other color schemes.
 
 ### Iterm2
 * [material-iterm](https://github.com/stoeffel/material-iterm)
