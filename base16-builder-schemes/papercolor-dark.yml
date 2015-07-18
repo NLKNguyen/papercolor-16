@@ -1,0 +1,18 @@
+scheme: "PaperColor-Dark"
+author: "Nguyen Nguyen (http://github.com/NLKNguyen)"
+base00: "262626" # Dark - background
+base01: "262626" # Dark - secondary background
+base02: "4d4d4c" # [ignore] Light - plain text
+base03: "808080" # Dark - comment
+base04: "949494" # [ignore] Light - comment
+base05: "d0d0d0" # Dark - plain text 
+base06: "f3f3f3" # [ignore] Light - secondary background
+base07: "f3f3f3" # [ignore] Light - background
+base08: "af87af"
+base09: "ff5faf"
+base0A: "00afaf"
+base0B: "dfaf5f"
+base0C: "5fafdf"
+base0D: "df875f"
+base0E: "afdf00"
+base0F: "00af5f"
