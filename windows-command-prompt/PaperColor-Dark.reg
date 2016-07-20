@@ -1,0 +1,60 @@
+Windows Registry Editor Version 5.00
+[HKEY_CURRENT_USER\Console]
+
+; PaperColor Dark - color palette for Windows Command Prompt
+; More 16-color terminal palettes : https://GitHub.com/NLKNguyen/papercolor-16
+
+; Designed accordingly to PaperColor-Theme for Vim
+; See : https://GitHub.com/NLKNguyen/papercolor-theme
+
+; Notes:
+;   - Color numbers and names in comments are based on ANSI standard
+;   - Values stored as 00[BB][GG][RR] (where a HEX value would be #[RR][GG][BB])
+
+; 00 Black
+"ColorTable00"=dword:00262626
+
+; 01 DarkRed
+"ColorTable04"=dword:000000df
+
+; 02 DarkGreen
+"ColorTable02"=dword:0000af5f
+
+; 03 DarkYellow
+"ColorTable06"=dword:005fafdf
+
+; 04 DarkBlue
+"ColorTable01"=dword:00303030
+
+; 05 DarkMagenta
+"ColorTable05"=dword:00878757
+
+; 06 DarkCyan
+"ColorTable03"=dword:005f87df
+
+; 07 LightGray
+"ColorTable07"=dword:00d0d0d0
+
+; 08 DarkGray
+"ColorTable08"=dword:008a8a8a
+
+; 09 LightRed
+"ColorTable12"=dword:005faf5f
+
+; 10 LightGreen
+"ColorTable10"=dword:0000dfaf
+
+; 11 LightYellow
+"ColorTable14"=dword:00d787af
+
+; 12 LightBlue
+"ColorTable09"=dword:00585858
+
+; 13 LightMagenta
+"ColorTable13"=dword:00af5fff
+
+; 14 LightCyan
+"ColorTable11"=dword:00afaf00
+
+; 15 White
+"ColorTable15"=dword:00dfaf5f
