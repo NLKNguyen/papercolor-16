@@ -2,7 +2,8 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\Console]
 
 ; PaperColor Dark - color palette for Windows Command Prompt
-; More 16-color terminal palettes : https://GitHub.com/NLKNguyen/papercolor-16
+
+; For more 16-color terminal palettes : https://GitHub.com/NLKNguyen/papercolor-16
 
 ; Designed accordingly to PaperColor-Theme for Vim
 ; See : https://GitHub.com/NLKNguyen/papercolor-theme
