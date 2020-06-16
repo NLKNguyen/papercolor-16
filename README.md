@@ -15,6 +15,9 @@ Install using Atom's package manager
 ### GNOME Terminal
 * [This repo's directory](https://github.com/NLKNguyen/papercolor/tree/master/gnome-terminal)
 
+### Tilix Terminal
+* [This repo's directory](https://github.com/NLKNguyen/papercolor/tree/master/tilix)
+
 ### Base16 schemes
 * [This repo's directory](https://github.com/NLKNguyen/papercolor/tree/master/base16-builder-schemes) 
 
